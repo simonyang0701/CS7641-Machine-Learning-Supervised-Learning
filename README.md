@@ -9,6 +9,8 @@ This project is to generate five classification algorithms in supervised learnin
 NBA games: https://www.kaggle.com/nathanlauga/nba-games
 LOL games: https://www.kaggle.com/datasnaek/league-of-legends?select=games.csv
 
+This project link on Github: https://github.com/simonyang0701/Supervised-Learning.git
+
 From these two datasets, we will use some of the attributes of a game to generate a supervised learning model to analyze the result of a game. The five algorithms are including Decision Tree, Neural Networks, Boosting Tree, Support Vector Machines and K-nearest neighbors.
 
 ## Getting Started & Prerequisites
