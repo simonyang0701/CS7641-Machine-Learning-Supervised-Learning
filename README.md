@@ -5,11 +5,11 @@ GTid: 903645962<br>
 Date: 2020/9/20<br>
 
 ## Introduction
-This project is to generate five classification algorithms in supervised learning by using two interesting datasets downloaded from Kaggle
-NBA games: https://www.kaggle.com/nathanlauga/nba-games
-LOL games: https://www.kaggle.com/datasnaek/league-of-legends?select=games.csv
+This project is to generate five classification algorithms in supervised learning by using two interesting datasets downloaded from Kaggle<br>
+NBA games: https://www.kaggle.com/nathanlauga/nba-games<br>
+LOL games: https://www.kaggle.com/datasnaek/league-of-legends?select=games.csv<br>
 
-This project link on Github: https://github.com/simonyang0701/Supervised-Learning.git
+This project link on Github: https://github.com/simonyang0701/Supervised-Learning.git<br>
 
 From these two datasets, we will use some of the attributes of a game to generate a supervised learning model to analyze the result of a game. The five algorithms are including Decision Tree, Neural Networks, Boosting Tree, Support Vector Machines and K-nearest neighbors.
 
