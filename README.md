@@ -1,8 +1,8 @@
 # CS 7641 Assignment 1: Supervised Learning
 ## Author
-Name: Tianyu Yang
-GTid: 903645962
-Date: 2020/9/20
+Name: Tianyu Yang<br>
+GTid: 903645962<br>
+Date: 2020/9/20<br>
 
 ## Introduction
 This project is to generate five classification algorithms in supervised learning by using two interesting datasets downloaded from Kaggle
